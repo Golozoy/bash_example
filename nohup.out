@@ -1,0 +1,68 @@
+Перехват сигналов
+This is a test script
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+-------------------------------------
+Перехват сигнала выхода из скрипта
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+-------------------------------------
+Модификация перехваченных сигналов и отмена перехвата
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+Second Loop #1
+Second Loop #2
+Second Loop #3
+Second Loop #4
+Second Loop #5
+I just removed the trap
+Third loop #1
+Third loop #2
+Third loop #3
+Third loop #4
+Third loop #5
+-------------------------------------
+Goodbye..
+Перехват сигналов
+This is a test script
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+-------------------------------------
+Перехват сигнала выхода из скрипта
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+-------------------------------------
+Модификация перехваченных сигналов и отмена перехвата
+Loop #1
+Loop #2
+Loop #3
+Loop #4
+Loop #5
+Second Loop #1
+Second Loop #2
+Second Loop #3
+Second Loop #4
+Second Loop #5
+I just removed the trap
+Third loop #1
+Third loop #2
+Third loop #3
+Third loop #4
+Third loop #5
+-------------------------------------
+Goodbye..
